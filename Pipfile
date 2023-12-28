@@ -4,7 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-coverage = "~=5.0"
+coverage = "~=7.4"
 yamllint = "~=1.21"
 elasticsearch = "~=7.6"
 elasticsearch-async = "~=6.2"
